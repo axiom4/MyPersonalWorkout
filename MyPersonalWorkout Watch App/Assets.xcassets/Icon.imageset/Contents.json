@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
