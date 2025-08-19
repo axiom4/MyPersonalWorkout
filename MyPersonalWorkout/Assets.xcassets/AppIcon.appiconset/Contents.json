@@ -1,0 +1,38 @@
+{
+  "images" : [
+    {
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t 1.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "tinted"
+        }
+      ],
+      "filename" : "20250819_1036_Icona App Attività Fisica_simple_compose_01k30qea4cea3bxp8nxyhz9g6t 2.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
